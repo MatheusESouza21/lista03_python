@@ -7,8 +7,8 @@ if resposta == 'sim':
     resposta2 = input('Está ventando? ')
     (resposta2.lower())
     if resposta2 == 'sim':
-        print('Está ventando muito para um guarda-chuva')
+        print('Está ventando muito para um guarda-chuva\nMatheus Eduardo')
     else:
-        print('Pegue um guarda-chuva')
+        print('Pegue um guarda-chuva\nMatheus Eduardo')
 else:
-    print('Aproveite seu dia')
+    print('Aproveite seu dia\nMatheus Eduardo')

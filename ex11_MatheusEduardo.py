@@ -3,7 +3,7 @@
 distancia = float(input('Qual distância você deseja percorrer? (KM/h) '))
 if distancia <= 200:
     passagem = 0.50 * distancia
-    print('O preço da passagem é R$',passagem)
+    print('O preço da passagem é R$',passagem,'\nMatheus Eduardo')
 elif distancia > 200:
     passagem = 0.45 * distancia
-    print('O preço da passagem é R$',passagem)
+    print('O preço da passagem é R$',passagem,'\nMatheus Eduardo')

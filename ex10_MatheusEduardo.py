@@ -3,7 +3,7 @@
 salario = float(input('Qual o seu salário? '))
 if salario > 1250:
     nsalario = salario + (salario * 0.10)
-    print('Seu aumento foi de R$', salario * 0.10,'e agora você receber R$', nsalario)
+    print('Seu aumento foi de R$', salario * 0.10,'e agora você receber R$', nsalario,'\nMatheus Eduardo')
 elif salario <= 1250:
     nsalario = salario + (salario * 0.15)
-    print('Seu aumento foi de R$', salario * 0.15,'e agora você recebe R$', nsalario)
+    print('Seu aumento foi de R$', salario * 0.15,'e agora você recebe R$', nsalario,'\nMatheus Eduardo')

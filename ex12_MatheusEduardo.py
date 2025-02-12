@@ -4,10 +4,10 @@ num1 = int(input('Digite um número: '))
 num2 = int(input('Digite outro número: '))
 oper = input('Digite qual operação deseja fazer (+ - / *): ')
 if oper == '+':
-    print('O resultado da operaçâo é:', num1 + num2)
+    print('O resultado da operaçâo é:', num1 + num2,'\nMatheus Eduardo')
 elif oper == '-':
-     print('O resultado da operaçâo é:', num1 - num2)
+     print('O resultado da operaçâo é:', num1 - num2,'\nMatheus Eduardo')
 elif oper == '*':
-      print('O resultado da operaçâo é:', num1 * num2)
+      print('O resultado da operaçâo é:', num1 * num2,'\nMatheus Eduardo')
 elif oper == '/':
-      print('O resultado da operaçâo é:', num1 / num2)
+      print('O resultado da operaçâo é:', num1 / num2,'\nMatheus Eduardo')

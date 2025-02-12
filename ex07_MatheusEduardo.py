@@ -2,10 +2,10 @@
 # Se ele inserir qualquer outra coisa, exiba "Mensagem de erro".
 num = int(input('Insira 1, 2 ou 3: '))
 if num == 1:
-    print('Obrigado')
+    print('Obrigado\nMatheus Eduardo')
 elif num == 2:
-    print('Muito bem')
+    print('Muito bem\nMatheus Eduardo')
 elif num == 3:
-    print('Correto')
+    print('Correto\nMatheus Eduardo')
 else:
-    print('Mensagem de erro')
+    print('Mensagem de erro\nMatheus Eduardo')

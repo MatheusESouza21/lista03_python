@@ -3,6 +3,6 @@
 cor = input('Insira sua cor favorita: ')
 (cor.lower())
 if cor == 'vermelho':
-    print('Eu também gosto de vermelho')
+    print('Eu também gosto de vermelho\nMatheus Eduardo')
 else:
-    print('Eu não gosto de', cor,'eu prefiro vermelho')
+    print('Eu não gosto de', cor,'eu prefiro vermelho\nMatheus Eduardo')
