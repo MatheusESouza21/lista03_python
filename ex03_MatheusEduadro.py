@@ -2,6 +2,6 @@
 # exiba a mensagem "Obrigado", caso contrário, exiba a mensagem "Resposta incorreta".
 num = int(input('Insira um número entre 10 e 20: '))
 if num >= 10 and num <= 20:
-    print('Obrigado \nMatheus Eduardo')
+    print('Obrigado')
 else:
-    print('Resposta incorreta \nMatheus Eduardo')
+    print('Resposta incorreta')
